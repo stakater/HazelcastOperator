@@ -1,0 +1,7 @@
+apiVersion: stakater.com/v1
+kind: Hazelcast
+metadata:
+  name: hazelcast-carbook
+spec:
+  cluster:
+    memberCount: 1

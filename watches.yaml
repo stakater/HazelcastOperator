@@ -1,0 +1,5 @@
+---
+- version: v1
+  group: stakater.com
+  kind: Hazelcast
+  chart: /opt/helm/helm-charts/hazelcast

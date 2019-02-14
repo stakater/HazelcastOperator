@@ -1,0 +1,7 @@
+apiVersion: stakater.com/v1
+kind: Hazelcast
+metadata:
+  name: example-hazelcast
+spec:
+  cluster:
+    memberCount: 3
